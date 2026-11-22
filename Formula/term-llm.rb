@@ -5,25 +5,25 @@ class TermLlm < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/term-llm/term-llm/releases/download/v0.9.118/term-llm_0.9.118_darwin_arm64.tar.gz"
-      sha256 "89b15653849e9c30112d2b1a5ad50f33f366c9d0937e803f8d1fdcb1495838b2"
+      url "https://github.com/term-llm/term-llm/releases/download/v0.9.119/term-llm_0.9.119_darwin_arm64.tar.gz"
+      sha256 "0055c940aa9e8ea3261c2d8ada8186525ffda50e3aba6d6fc0d8fe93b81d2058"
     end
 
     on_intel do
-      url "https://github.com/term-llm/term-llm/releases/download/v0.9.118/term-llm_0.9.118_darwin_amd64.tar.gz"
-      sha256 "a145b8b2289025383d6e5e45603dfbfc5a1f83dfb994d2c70b21f709e7b4fe48"
+      url "https://github.com/term-llm/term-llm/releases/download/v0.9.119/term-llm_0.9.119_darwin_amd64.tar.gz"
+      sha256 "8d7d14daf23fd771dcce7246fd9c2c7cb9d81462e92ed8484babae57bed20dba"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/term-llm/term-llm/releases/download/v0.9.118/term-llm_0.9.118_linux_arm64.tar.gz"
-      sha256 "25589b3b7dd3644c6d10b9eb4517ab3bd3ec6d7ed74e367be7fed2144490ab5f"
+      url "https://github.com/term-llm/term-llm/releases/download/v0.9.119/term-llm_0.9.119_linux_arm64.tar.gz"
+      sha256 "886d3ee3b6880c30b01a71c4693f94be660e900e5b0c092b00f8049e0cf33481"
     end
 
     on_intel do
-      url "https://github.com/term-llm/term-llm/releases/download/v0.9.118/term-llm_0.9.118_linux_amd64.tar.gz"
-      sha256 "6301aabfd0f927873a4a9f11b05c5807c8baac2fa4b12c99081c36550813d076"
+      url "https://github.com/term-llm/term-llm/releases/download/v0.9.119/term-llm_0.9.119_linux_amd64.tar.gz"
+      sha256 "f5c29174c13b7fbf40454b7162d0e4bbad8c3de735a7ef3882a2d286cb22a1a6"
     end
   end
 
